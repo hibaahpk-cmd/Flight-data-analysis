@@ -42,12 +42,10 @@ Routes experiencing significant delays.
 Patterns in flight operational performance.
 ## Dataset Information
 
-Attribute| Description
-Dataset Name| Flight Data
-Time Period| 2013
-Total Records| Approximately 337,000
-Total columns| 22
-Data Type| Flight Operational Data
-Main Category| Airline Operations
-Analysis Focus| Flight Cancellation & Delay Analysis
-File Format| CSV
+| Attribute | Description |
+|---|---|
+| Dataset Name | Flights |
+| Time Period | 2013 |
+| Data Type | Flight Operational Data |
+| File Format | CSV |
+| Analysis Focus | Flight Cancellation & Delay Analysis |
